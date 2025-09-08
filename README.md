@@ -1,7 +1,6 @@
 ## 👋 Olá, eu sou a Luane Gonçalves Silva
 
 💻 Analista e desenvolvedora de Sistemas pela XPE
-
 🎯 Estudante de **Ciência de Dados** e apaixonada por **Ciência, tecnologia, transformação de dados e crescimento contínuo**.  
 ☁️ Explorando **Cloud Computing (AWS) com a DIO** e aplicando boas práticas de **EC2, S3 e EBS**.  
 📚 Atualmente me preparando para **concursos públicos** na área administrativa e de ciência de dados.  
