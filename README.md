@@ -24,7 +24,7 @@
 
 ## 🌐 Onde me encontrar
 [![Linkedin Badge](https://img.shields.io/badge/-Luane%20Gonçalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luasgl)](https://www.linkedin.com/in/luasgl)
-[![Gmail Badge](https://img.shields.io/badge/-luanegoncalves.s@egmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanegoncalves.s@egmail.com)](mailto:luanegoncalves.s@egmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-luanegoncalves.s@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanegoncalves.s@gmail.com)](mailto:luanegoncalves.s@gmail.com)
 
 ---
 
