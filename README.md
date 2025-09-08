@@ -15,9 +15,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="50" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="PostgreSQL" height="50" width="50" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-[![Development Tools](https://skillicons.dev/icons?i=github,windows,vscode,)]
   <img align="center" alt="Git" height="50" width="50" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Power BI" height="50" width="50" 
