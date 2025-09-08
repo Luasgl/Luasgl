@@ -12,13 +12,20 @@
 
 ## 🚀 Tecnologias & Ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="50" width="50" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="PostgreSQL" height="50" width="50" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="AWS" height="50" width="50" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Git" height="50" width="50" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Power BI" height="50" width="50" 
+       src="https://img.icons8.com/color/48/000000/power-bi.png">
+  <img align="center" alt="Excel" height="50" width="50" 
+       src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png">
+</div>
 ---
 
 ## 📌 Projetos em Destaque
