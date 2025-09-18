@@ -6,7 +6,7 @@
 
 ☁️ Explorando **Cloud Computing (AWS) com a DIO** e aplicando boas práticas de **EC2, S3 e EBS**.  
 
-📚 Atualmente me preparando para **concursos públicos** na área administrativa e de ciência de dados.  
+📚 Atualmente me preparando e me capacitando para **transicionar minha carreira para a área de TI** e estudando ciência de dados.  
 
 ---
 
