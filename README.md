@@ -34,7 +34,7 @@
 ---
 
 ## 📌 Projetos em Destaque
-- ☁️ [AWS EC2 Notes]([https://github.com/SEU-USUARIO/aws-ec2-notes](https://github.com/Luasgl/CodeGirls-2025/blob/main/desafios/modulo1/README_EC2.md](https://github.com/Luasgl/CodeGirls-2025/blob/main/desafios/modulo1/README_EC2.md))](https://github.com/Luasgl/CodeGirls-2025/blob/main/desafios/modulo1/README_EC2.md)](https://github.com/Luasgl/CodeGirls-2025.git)) → Anotações e práticas sobre gerenciamento de instâncias EC2.  
+- ☁️ [Meu Processo no Bootcamp Santander CodeGirls 2025](https://github.com/Luasgl/CodeGirls-2025.git) → Anotações e práticas sobre gerenciamento de instâncias EC2.  
 
 ---
 
