@@ -34,7 +34,7 @@
 ---
 
 ## 📌 Projetos em Destaque
-- 🧡 [Meu Projeto Pessoal de Apoio Mútuo em Rede ](https://github.com/Luasgl/rede_de_apoio_EM_Bahia) → Projeto de código aberto para mapear e conectar a rede de apoio a pacientes com Esclerose Múltipla (EM) no estado da Bahia.
+- 🧡 [Meu Projeto Pessoal de Apoio Mútuo em Rede ](https://github.com/Luasgl/rede_de_apoio_EM_Bahia) → Projeto de código aberto para mapear e conectar rede de apoio a pacientes com Esclerose Múltipla (EM) no estado da Bahia.
 
 ---
 
