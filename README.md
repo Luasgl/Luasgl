@@ -1,12 +1,53 @@
-## 👋 Olá, eu sou a Luane Gonçalves Silva
+<!-- HEADER -->
+<div align="center">
 
-💻 Analista e desenvolvedora de Sistemas pela XPE
+# 👩‍💻 Luane Gonçalves Silva  
+### Analista e Desenvolvedora de Sistemas | Estudante de Ciência de Dados  
 
-🎯 Estudante de **Ciência de Dados** e apaixonada por **Ciência, tecnologia, transformação de dados e crescimento contínuo**.  
+🌍 *Transformando dados em conhecimento e tecnologia em impacto.*
 
-☁️ Explorando **Python Essencials com a Cisco e participando da iniciativa de capacitação Ela+Tech parceria da Caixa com ADA e Artemísia na trilha de Dados** e aplicando boas práticas de **limpeza de dados com Python e Pandas**.  
+</div>
 
-📚 Atualmente me preparando e me capacitando para **expandir minha carreira para a área de TI** e estudando ciência de dados.  
+---
+
+## 🎓 Formação Acadêmica  
+🎓 **Analista e Desenvolvedora de Sistemas** — *XPE Educação*  
+📘 **Atualmente:** Estudante de **Ciência de Dados**, com foco em análise, visualização e automação de processos.  
+
+---
+
+## 🚀 O que estou aprendendo agora  
+
+🐍 **Python Essentials** pela **Cisco Networking Academy**  
+👩‍🔬 **Ela+Tech (Caixa + ADA + Artemísia)** — trilha de **Dados**  
+📊 Aplicando boas práticas de **limpeza, tratamento e análise de dados** com **Python e Pandas**  
+
+💡 Explorando ferramentas e metodologias para fortalecer minha base em:
+- Automação de processos com Python  
+- Análise de dados com Pandas e NumPy  
+- Visualização de dados com Power BI e Matplotlib  
+- Versionamento de código com Git e GitHub  
+
+---
+
+## 🧠 Sobre mim  
+
+💬 Curiosa por natureza, acredito que aprender e compartilhar conhecimento é o caminho para crescer continuamente.  
+🌱 Busco expandir minha atuação em **Tecnologia e Dados**, aplicando soluções que unam **eficiência, inovação e propósito**.  
+💼 Apaixonada por **ciência, tecnologia e transformação digital**, vejo a programação como uma ferramenta para resolver problemas reais.  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas  
+
+<div align="center">
+
+| Linguagens | Banco de Dados | Ferramentas | Visualização |
+|-------------|----------------|--------------|---------------|
+| 🐍 Python | 🐘 PostgreSQL | 💻 VS Code | 📊 Power BI |
+| 💾 Git / GitHub | 🧠 SQL | 🧩 Excel | 📈 Matplotlib / Seaborn |
+
+</div>
 
 ---
 
@@ -38,10 +79,20 @@
 
 ---
 
-## 🌐 Onde me encontrar
-[![Linkedin Badge](https://img.shields.io/badge/-Luane%20Gonçalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luasgl)](https://www.linkedin.com/in/luasgl)
-[![Gmail Badge](https://img.shields.io/badge/-luanegoncalves.s@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanegoncalves.s@gmail.com)](mailto:luanegoncalves.s@gmail.com)
+## 📫 Conecte-se comigo  
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luane%20Gonçalves-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/luasgl)  
+[![GitHub](https://img.shields.io/badge/GitHub-Luasgl-lightgrey?style=flat&logo=github)](https://github.com/Luasgl)
+
+</div>
 
 ---
 
-✨ **Seja bem-vindo(a) ao meu perfil! Este espaço reúne meus estudos, projetos e reflexões sobre ciência e tecnologia** ☁️
+<div align="center">
+
+> ✨ “Aprender é transformar curiosidade em conhecimento — e conhecimento em impacto.”  
+
+</div>
+
