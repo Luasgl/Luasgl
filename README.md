@@ -4,14 +4,14 @@
 # 👩‍💻 Luane Gonçalves Silva  
 ### Analista e Desenvolvedora de Sistemas | Estudante de Ciência de Dados  
 
-🌍 *Transformando dados em conhecimento e tecnologia em impacto.*
+🌍 *Sempre em busca da capacitação e transformação digital para resolução de problemas.*
 
 </div>
 
 ---
 
 ## 🎓 Formação Acadêmica  
-🎓 **Analista e Desenvolvedora de Sistemas** — *XPE Educação*  
+🎓 **Analista e Desenvolvedora de Sistemas** — *XP Educação*  
 📘 **Atualmente:** Estudante de **Ciência de Dados**, com foco em análise, visualização e automação de processos.  
 
 ---
@@ -23,7 +23,7 @@
 📊 Aplicando boas práticas de **limpeza, tratamento e análise de dados** com **Python e Pandas**  
 
 💡 Explorando ferramentas e metodologias para fortalecer minha base em:
-- Automação de processos com Python  
+- Automação de processos com N8N e Python  
 - Análise de dados com Pandas e NumPy  
 - Visualização de dados com Power BI e Matplotlib  
 - Versionamento de código com Git e GitHub  
@@ -49,11 +49,7 @@
 
 </div>
 
----
-
-## 🚀 Tecnologias & Ferramentas
-
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="50" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="PostgreSQL" height="50" width="50" 
