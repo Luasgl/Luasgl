@@ -4,9 +4,9 @@
 
 🎯 Estudante de **Ciência de Dados** e apaixonada por **Ciência, tecnologia, transformação de dados e crescimento contínuo**.  
 
-☁️ Explorando **Cloud Computing (AWS) com a DIO** e aplicando boas práticas de **EC2, S3 e EBS**.  
+☁️ Explorando **Python Essencials com a Cisco e participando da iniciativa de capacitação Ela+Tech parceria da Caixa com ADA e Artemísia na trilha de Dados** e aplicando boas práticas de **limpeza de dados com Python e Pandas**.  
 
-📚 Atualmente me preparando e me capacitando para **transicionar minha carreira para a área de TI** e estudando ciência de dados.  
+📚 Atualmente me preparando e me capacitando para **expandir minha carreira para a área de TI** e estudando ciência de dados.  
 
 ---
 
@@ -34,7 +34,7 @@
 ---
 
 ## 📌 Projetos em Destaque
-- ☁️ [Meu Processo no Bootcamp Santander CodeGirls 2025](https://github.com/Luasgl/CodeGirls-2025.git) → Anotações e práticas sobre gerenciamento de instâncias EC2.  
+- 🧡 [Meu Projeto Pessoal de Apoio Mútuo em Rede ](https://github.com/Luasgl/rede_de_apoio_EM_Bahia) → Projeto de código aberto para mapear e conectar a rede de apoio a pacientes com Esclerose Múltipla (EM) no estado da Bahia.
 
 ---
 
